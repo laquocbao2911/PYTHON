@@ -1,0 +1,5 @@
+inp = float(input("Enter number : "))
+print(str(inp)+" km = "+str(1000*inp)+" m.")
+print(str(inp)+" m = "+str(inp)+" m.")
+print(str(inp)+" cm = "+str(inp/100)+" m.")
+print(str(inp)+" mm = "+str(inp/1000)+" m.")
